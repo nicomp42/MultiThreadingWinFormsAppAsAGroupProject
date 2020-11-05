@@ -77,7 +77,7 @@
     <Compile Include="FantasticBeast.cs" />
     <Compile Include="FantasticBeasts\FranticFox.cs" />
     <Compile Include="FantasticBeastsNotUsed\FeloniousFeline.cs" />
-    <Compile Include="FantasticBeastsNotUsed\LoquaciousLemur.cs" />
+    <Compile Include="FantasticBeasts\LoquaciousLemur.cs" />
     <Compile Include="FantasticBeastsNotUsed\MuscularMoose.cs" />
     <Compile Include="FantasticBeasts\PassionatePanda.cs" />
     <Compile Include="FantasticBeastsNotUsed\PeacefulPenguin.cs" />
