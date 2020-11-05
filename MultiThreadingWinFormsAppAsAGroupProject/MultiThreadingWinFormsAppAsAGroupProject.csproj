@@ -56,7 +56,6 @@
     <Compile Include="FantasticBeastsNotUsed\BenevolentBaboon.cs" />
     <Compile Include="FantasticBeastsNotUsed\CapriciousCow.cs" />
     <Compile Include="FantasticBeastsNotUsed\CaptivatingCamel.cs" />
-    <Compile Include="FantasticBeastsNotUsed\CasualCheetah.cs" />
     <Compile Include="FantasticBeastsNotUsed\ClimbingCat.cs" />
     <Compile Include="FantasticBeastsNotUsed\DoggedDog.cs" />
     <Compile Include="FantasticBeast.cs" />
@@ -71,6 +70,7 @@
     <Compile Include="FantasticBeastsNotUsed\ReasonableRaccoon.cs" />
     <Compile Include="FantasticBeastsNotUsed\SpuriousSwallow.cs" />
     <Compile Include="FantasticBeastsNotUsed\SuperSheep.cs" />
+    <Compile Include="FantasticBeasts\CasualCheetah.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
