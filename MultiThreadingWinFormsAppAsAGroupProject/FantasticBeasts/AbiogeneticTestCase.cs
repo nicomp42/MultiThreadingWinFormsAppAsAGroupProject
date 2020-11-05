@@ -2,6 +2,14 @@
  * Bill Nicholson
  * nicholdw@ucmail.uc.edu
  */
+/*
+ * Alex Moore
+ * Moore5ar@mail.uc.edu
+ * Assignment 07 
+ * Contemporary Porgramming IT3045C
+ * Due November 5th, 2020
+ * Multi Threading Windows Forms App As A Group Project
+ */
 using System;
 using System.Threading;
 using System.Threading.Tasks;
